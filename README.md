@@ -388,7 +388,7 @@ logs/
 
 ## 📞 Поддержка
 
-- **💬 Telegram**: [@your_support_bot](none)
+- **💬 Telegram**: none
 - **📧 Email**: none
 - **🐛 Issues**: [GitHub Issues](https://github.com/MortisRecords/SmartTradingBot/issues)
 - **📖 Docs**: [Wiki](https://github.com/MortisRecords/SmartTradingBot/wiki)
